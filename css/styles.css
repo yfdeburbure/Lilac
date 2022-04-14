@@ -5,7 +5,9 @@
 /* Changing the main font and background colour */
 
 body {
-	font-family: Raleway, sans-serif;
+	font-family: 'Anybody', cursive;
+    font-family: 'El Messiri', sans-serif;
+    font-family: 'League Spartan', sans-serif;
 	background-color: #fffcf8;
 }
 
